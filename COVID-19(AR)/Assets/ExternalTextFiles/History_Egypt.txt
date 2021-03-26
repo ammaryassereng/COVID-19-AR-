@@ -1,0 +1,8 @@
+Line1: Hi.
+Line2: Hi how are you.
+Line3: I am fine, are you busy.
+Line4: Currently, no.
+Line5: Cool, I want t go to the cinema will you join me.
+Line6: Of course.
+Line7: Meet you at six.
+Line8: OK. 
